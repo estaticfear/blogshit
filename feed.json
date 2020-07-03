@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BlogShit",
+    "description": "",
+    "home_page_url": "https://estaticfear.github.io/blogshit",
+    "feed_url": "https://estaticfear.github.io/blogshit/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "GauBo"
+    },
+    "items": [
+        {
+            "id": "https://estaticfear.github.io/blogshit/hello.html",
+            "url": "https://estaticfear.github.io/blogshit/hello.html",
+            "title": "Hello",
+            "summary": "# This is my shit blog :D",
+            "content_html": "<p># This is my shit blog :D</p>",
+            "author": {
+                "name": "GauBo"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-03T16:19:31+07:00",
+            "date_modified": "2020-07-03T16:19:31+07:00"
+        }
+    ]
+}
